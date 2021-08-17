@@ -1,4 +1,4 @@
-### Hello im Eduardo Máximo Cano
+### Hello I'm Eduardo Máximo Cano
 
 - 🌱 I am studying JavaScript/TypeScript and React
 
