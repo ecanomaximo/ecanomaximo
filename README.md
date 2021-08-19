@@ -1,6 +1,6 @@
 ### Hello I'm Eduardo Máximo Cano
 
-- 🌱 I I'm studying JavaScript/TypeScript and React
+- 🌱 I'm studying JavaScript/TypeScript and React
 
 <div>
   <a href="https://github.com/ecanomaximo">
